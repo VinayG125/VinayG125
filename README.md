@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="developer" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/co.gif">
+<img align="right" alt="developer" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayg125&label=Profile%20views&color=0e75b6&style=flat" alt="vinayg125" /> </p>
 
